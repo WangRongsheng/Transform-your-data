@@ -15,6 +15,7 @@
 6. voc_to_tfrecord.py：`.xml`文件转化`.tfrecord`；
 7. voc_to_yolo.py：`.xml`文件转化`.txt`；
 8. yolo_to_voc.py：`.txt`文件转化`.xml`；
+9. xg_some_string.py：修改图片或者标签名称中的指定字符；
 
 # 参考
 
